@@ -23,7 +23,8 @@
       "@/types/*": ["types/*"],
       "@/hooks/*": ["hooks/*"],
       "@/public/*": ["public/*"],
-      "@/recoil/*": ["recoil/*"]
+      "@/recoil/*": ["recoil/*"],
+      "@/apis/*": ["apis/*"]
     },
     "types": ["kakao.maps.d.ts"]
   },
